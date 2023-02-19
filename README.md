@@ -1,0 +1,10 @@
+# FirefoxProfileManagerStarter
+Firefoxは複数のプロファイルを使い分けることができますが、いちいちターミナルを開いて起動するのは面倒なのでDockからプロファイルマネージャーを起動できるようにしたいと思いました。
+
+## 使い方
+Firefox本体は事前にインストールしておいて下さい。
+
+mac下のFirefoxProfileManager.app以下を/Applications/の下に置くとアプリケーションとしてプロファイルマネージャーを起動することができるようになります。
+
+お好みでDockに追加して下さい。
+
